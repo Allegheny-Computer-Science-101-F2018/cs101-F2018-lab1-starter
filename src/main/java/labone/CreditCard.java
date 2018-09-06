@@ -131,12 +131,5 @@ public class CreditCard {
       wallet[2].charge(val);
     }
 
-    for (CreditCard card : wallet) {
-      CreditCard.printSummary(card);
-      while (card.getBalance() > 200.0) {
-        card.makePayment(200);
-        System.out.println("New balance = " + card.getBalance());
-      }
-    }
   }
 }
