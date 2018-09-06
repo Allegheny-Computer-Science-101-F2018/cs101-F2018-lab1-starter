@@ -19,7 +19,7 @@ writing/reflection.md:
     --paragraphs 6 --exact
     --words 100
 # --> check the number of commits beyond a threshold
---commits 16
+--commits 17
 # --> check that the program executes and produces 20 lines of output
 --command "gradle -q --console plain run" --executes
 --command "gradle -q --console plain run" --count 20 --exact

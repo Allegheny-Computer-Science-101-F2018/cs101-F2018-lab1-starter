@@ -131,5 +131,7 @@ public class CreditCard {
       wallet[2].charge(val);
     }
 
+    // TODO: Add in the required for loop
+
   }
 }
