@@ -97,7 +97,7 @@ have questions about any of these reading assignments.
 
 ## Commands
 
-To get started in using the GatorGrader tool, you can change into the directory
+To get started with using the GatorGrader tool, you can change into the directory
 for this assignment and type the command `gradle grade` in your terminal.
 Running this command will produce a lot of output that you should carefully
 inspect. If the output indicates that GatorGrader judges that there are no
